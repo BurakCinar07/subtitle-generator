@@ -1,0 +1,7 @@
+*.mp4
+*.wav
+*.srt
+credentials.json
+*.7z
+.idea/
+venv/
